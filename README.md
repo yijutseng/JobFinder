@@ -5,6 +5,8 @@ JobFinder is an app run on Shiny: https://yijutseng.shinyapps.io/JobFinder
 
 The main idea of this app is rearching all the webpages in JobList based on keywords in Keywords.txt. 
 
+Feel free to add new webpages which include hiring messages from universities or academic institutes in Taiwan.
+
 <h2>JobList Format</h2>
 Area(Space)Research_inteerests(Space)Webpage_name(Space)URL
 
@@ -14,9 +16,9 @@ Area(Space)Research_inteerests(Space)Webpage_name(Space)URL
 * 3: Southen Taiwan
 * 4: Eastern Taiwan
 
-<h3>Research Inteerestsrea Coding Book</h3>
+<h3>Research Interests Coding Book</h3>
 * 1: Medical Inforamtics
-* 2: Healt Managerment 
+* 2: Health Managerment 
 * 3: Informatics
 * 4: Public Health
 * 0: All (Data from HR)
