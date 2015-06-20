@@ -1,8 +1,8 @@
 name: JobFinder
 account: yijutseng
 server: shinyapps.io
-bundleId: 206369
+bundleId: 206398
 url: https://yijutseng.shinyapps.io/JobFinder
-when: 1434765549.41211
+when: 1434770388.56722
 asMultiple: FALSE
 asStatic: FALSE
