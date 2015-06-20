@@ -1,11 +1,12 @@
 # JobFinder
 Help you find faculty jobs available in Taiwan
 
+
 JobFinder is an app run on Shiny: https://yijutseng.shinyapps.io/JobFinder
 
 The main idea of this app is rearching all the webpages in JobList based on keywords in Keywords.txt. 
 
-Feel free to add new webpages which include hiring messages from universities or academic institutes in Taiwan.
+Please feel free to add new webpages which include hiring messages from universities or academic institutes in Taiwan.
 
 <h2>JobList Format</h2>
 Area(Space)Research_inteerests(Space)Webpage_name(Space)URL
