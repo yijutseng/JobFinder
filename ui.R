@@ -7,7 +7,7 @@ dataset <- diamonds
 
 fluidPage(
   theme = shinytheme("journal"),
-  titlePanel("Fide Your Job!! (v0.1)"),
+  titlePanel("Find Your Job!! (v0.1)"),
   
   sidebarPanel(
     checkboxGroupInput("ri", 
